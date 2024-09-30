@@ -1,0 +1,5 @@
+# ninja log v6
+4	309	7494180630335399	build.ninja	d989f52549eaf5f8
+6	709	7494149396538511	CMakeFiles/Assigment3.dir/problem1.cpp.obj	76886f79b81b094f
+709	837	7494149403576233	Assigment3.exe	e839420d648b0c18
+6	1283	7494150341403039	CMakeFiles/Assigment3.dir/problem2.cpp.obj	e415c4018c83135
